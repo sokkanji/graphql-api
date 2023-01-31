@@ -1,0 +1,25 @@
+{
+  "name": "tweetql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sokkanji/init-temp42.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sokkanji/init-temp42/issues"
+  },
+  "homepage": "https://github.com/sokkanji/init-temp42#readme",
+  "dependencies": {
+    "apollo-server": "^3.11.1",
+    "graphql": "^16.6.0",
+    "nodemon": "^2.0.20"
+  },
+  "type": "module"
+}
